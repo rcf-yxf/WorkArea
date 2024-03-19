@@ -8,6 +8,7 @@
 > * no say
 > * listen
 > * write
+> * delete
 
 ## Second Step
 
